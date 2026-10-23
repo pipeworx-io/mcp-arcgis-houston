@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-houston",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "City of Houston GIS — Houston, Texas open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6a4fab63dfa27b0b0dddcbc7a95d8162cf39d890bb35bb5a03216d518afd7590",
-    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
+    "sourceHash": "v1-279a96eb57301bb68254c99b599f84ea3a96454f77788c40305856811b556e11",
+    "sourceCommit": "93c7d52ace03a2bb9aee5e6024f6858adab0dd04"
   }
 }
